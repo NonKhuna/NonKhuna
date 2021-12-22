@@ -1,7 +1,7 @@
 ### Hi, I'm Non<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://nonkhuna.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nonkhuna/)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/khunanonr)
 
 Now, I'm a student at Chulalongkorn University faculty of computer engineering.
  - I’m currently learning Data sci at Datacamp.
