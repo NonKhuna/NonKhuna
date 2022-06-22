@@ -4,7 +4,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/khunanonr)
 
 Now, I'm a student at Chulalongkorn University faculty of computer engineering.
- - I’m currently learning Data sci at Datacamp.
+ - I’m currently learning Data sci/eng track.
  - I'm interested in ```Machine learning```, ``AI`` and ``Business``.
  
 
