@@ -8,6 +8,6 @@ Now, I'm a student at Chulalongkorn University faculty of computer engineering.
  - I'm interested in ```Machine learning```, ``AI`` and ``Business``.
  
 
-![Nonkhuna's github stats](https://github-readme-stats.vercel.app/api?username=NonKhuna&theme=onedark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonKhuna&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Nonkhuna's github stats](https://github-readme-stats.vercel.app/api?username=NonKhuna&theme=onedark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonKhuna&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 
