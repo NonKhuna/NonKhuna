@@ -1,27 +1,31 @@
 <p align="center">
- <a href="https://nonkhuna.github.io/"><img src="https://github.com/NonKhuna/NonKhuna/assets/60351130/b24f8347-664e-4f36-bf22-caa822350e2a" width="200"></a>
+ <img src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" width=200>
 </p>
+
+<p align="center">
+  <a href="https://nonkhuna.github.io/"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nonkhuna/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://www.kaggle.com/khunanonr"><img src="https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+
+<p align="center">
 
 
 ## About Me :
 ### Hi, I'm Khunanon Rattanagoses (Non) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://nonkhuna.github.io/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nonkhuna/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/khunanonr)
- 
 I'm a senior student at Chulalongkorn University faculty of computer engineering.
  - Seeking further exploring and solving challenge problems in the world. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
  - I'm interested in ```Machine learning```, ``Deep learning`` and ``Business``.
  
  ### Experiences
+ 
 <details>
 <summary>Data Science</summary>
- -
- </details>
  
- <details>
- 
+  - [Depression classification model](https://github.com/NonKhuna/Depression-classification/tree/main): Predict people with depression using interview transcripts.
+  - [Tuberculosis classification](https://github.com/NonKhuna/tuberculosis-chest-x-rays-shenzhen): Image classification model to predict tuberculosis using X-ray images.
+</details>
+
+<details>
  <summary>App development</summary>
  
  - [DelveiBot](https://github.com/NonKhuna/DelveiBot): An assistance chatbot for finding and reporting lost items.
