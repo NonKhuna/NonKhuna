@@ -21,8 +21,10 @@ I'm a senior student at Chulalongkorn University faculty of computer engineering
 <details>
 <summary>Data Science</summary>
  
+  - [Job title classification](https://github.com/NonKhuna/JobTopGun-job-title-classification): Predict Job title from job description.
+  - [Pull Request title generator](https://github.com/tinnakitudsa/Pull-Request-Title-Generation): Generate PR title by using the BART model and TextRank algorithm.
   - [Depression classification model](https://github.com/NonKhuna/Depression-classification/tree/main): Predict people with depression using interview transcripts.
-  - [Tuberculosis classification](https://github.com/NonKhuna/tuberculosis-chest-x-rays-shenzhen): Image classification model to predict tuberculosis using X-ray images.
+  - [Tuberculosis Prediction](https://github.com/NonKhuna/tuberculosis-chest-x-rays-shenzhen): Image classification model to predict tuberculosis using X-ray images.
 </details>
 
 <details>
