@@ -21,17 +21,21 @@ I'm a senior student at Chulalongkorn University faculty of computer engineering
 <details>
 <summary>Data Science</summary>
  
-  - [Job title classification](https://github.com/NonKhuna/JobTopGun-job-title-classification): Predict Job title from job description.
-  - [Pull Request title generator](https://github.com/tinnakitudsa/Pull-Request-Title-Generation): Generate PR title by using the BART model and TextRank algorithm.
-  - [Depression classification model](https://github.com/NonKhuna/Depression-classification/tree/main): Predict people with depression using interview transcripts.
-  - [Tuberculosis Prediction](https://github.com/NonKhuna/tuberculosis-chest-x-rays-shenzhen): Image classification model to predict tuberculosis using X-ray images.
+ - NLP
+   - [Word correction](https://github.com/NonKhuna/word-correction): Correct error words which are output from ASR model.
+   - [Job title classification](https://github.com/NonKhuna/JobTopGun-job-title-classification): Predict Job title from job description.
+   - [Pull Request title generator](https://github.com/tinnakitudsa/Pull-Request-Title-Generation): Generate PR title by using the BART model and TextRank algorithm.
+   - [Depression classification model](https://github.com/NonKhuna/Depression-classification/tree/main): Predict people with depression using interview transcripts.
+ - Image processing
+   - [Traffy fondue](https://github.com/NonKhuna/Traffy-foundue-image-classification): Classify 10 problems using the image from Traffy fondue report.
+   - [Tuberculosis Prediction](https://github.com/NonKhuna/tuberculosis-chest-x-rays-shenzhen): Image classification model to predict tuberculosis using X-ray images.
 </details>
 
 <details>
  <summary>App development</summary>
  
  - [DelveiBot](https://github.com/NonKhuna/DelveiBot): An assistance chatbot for finding and reporting lost items.
- - [DataPro algorithm](https://github.com/NonKhuna/DataPro-Algorithm): A algorithm that finds statistically significant patterns in data to detect data format changing.
+ - [DataPro algorithm](https://github.com/NonKhuna/DataPro-Algorithm): An algorithm that finds statistically significant patterns in data to detect data format changing.
  - [SongkranAR](https://github.com/NonKhuna/SongkranAR_project): An AR application for celebrating Songkran in Thailand.
  - [Thai-to-Braille](https://github.com/NonKhuna/Thai-textToBraille): A Thai-Braille translation algorithm implemented by using Finite State Machines.
  - [War-of-alien](https://github.com/karnjj/final-project-progmeth): A Tower defense game like LINE Rnagers.
