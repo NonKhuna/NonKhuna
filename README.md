@@ -21,12 +21,14 @@ I'm a senior student at Chulalongkorn University faculty of computer engineering
 <details>
 <summary>Data Science</summary>
  
+ - Classical Machine Learning
+   - [Sed-young-wa](https://github.com/karnjj/sed-young-wa): A service for estimating the end of the issues submitted in the Traffy fondue platform.
  - NLP
    - [Word correction](https://github.com/NonKhuna/word-correction): Correct error words which are output from ASR model.
    - [Job title classification](https://github.com/NonKhuna/JobTopGun-job-title-classification): Predict Job title from job description.
    - [Pull Request title generator](https://github.com/tinnakitudsa/Pull-Request-Title-Generation): Generate PR title by using the BART model and TextRank algorithm.
    - [Depression classification model](https://github.com/NonKhuna/Depression-classification/tree/main): Predict people with depression using interview transcripts.
- - Image processing
+ - Image Processing
    - [Traffy fondue](https://github.com/NonKhuna/Traffy-foundue-image-classification): Classify 10 problems using the image from Traffy fondue report.
    - [Tuberculosis Prediction](https://github.com/NonKhuna/tuberculosis-chest-x-rays-shenzhen): Image classification model to predict tuberculosis using X-ray images.
 </details>
