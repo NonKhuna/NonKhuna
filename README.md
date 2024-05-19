@@ -45,8 +45,8 @@ I'm a senior student at Chulalongkorn University faculty of computer engineering
  
 <details>
 <summary>Web development</summary>
-  
- - [Khigun-chat](https://github.com/karnjj/kuigun-chat) [Front-end]: A chat application which supports both private and group chats
+ - [PAAP](https://github.com/PAAP-anntation-platform/paap) [Front-end]: Annotation platform for pathologists.
+ - [Kuigun-chat](https://github.com/karnjj/kuigun-chat) [Front-end]: A chat application which supports both private and group chats
  - [Demo by Tuder](https://github.com/2110336-2565-2/sec2-group10-demo-frontend) [Front-end]: Music streaming platform
 </details>
 
